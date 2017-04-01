@@ -14,4 +14,11 @@ page-hello-ionic {
   .calendar{
     margin-top: -200px;
   }
+  .line-limit-length {
+    font-size: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+  }
 }
